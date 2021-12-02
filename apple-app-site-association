@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": {
+            "APPLE_DEV_TEAM_ID.APP_BUNDLE_IDENTIFIER": {
+                "paths": [
+                    "*"
+                ]
+            }
+        }
+    }
+}
