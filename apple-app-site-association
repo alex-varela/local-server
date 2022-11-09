@@ -3,16 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "8C8FYC72CZ.com.agentis.verto.dev",
+        "appIDs": [
+          "8C8FYC72CZ.com.agentis.verto.dev",
+          "RRH7JAM8AF.com.agentis.verto.dev"
+        ],
         "components": [
           {
-            "/": "/app/*"
+            "/": "/*"
           },
           {
-            "/": "/app/*/*"
+            "/": "/*/*"
           },
           {
-            "/": "/app/*/*/*"
+            "/": "/*/*/*"
           }
         ],
         "paths": [
