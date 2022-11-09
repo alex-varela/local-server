@@ -1,8 +1,8 @@
 {
   
   "scripts": {
-        "start": "node server.js"
-  }
+        "start": "node index.js"
+  },
 
   "name": "localserver",
   "version": "1.0.0",
