@@ -9,4 +9,4 @@ server.get('/.well-known/apple-app-site-association', function(request, response
 //   response.sendFile(__dirname +  '/assetlinks.json');
 // });
 
-server.listen(80);
+server.listen(8888);
